@@ -4,7 +4,9 @@ An example [Power-up](https://github.com/foundationapp/power-ups) to use as a st
 
 ## Installation
 
-First, you'll need to install the Power-Up package (https://github.com/foundationapp/power-ups). Then run the following command:
+First, install the Power-Up package (https://github.com/foundationapp/power-ups). 
+
+Then run the following command:
 
 ```
 php artisan powerup:install https://github.com/foundationapp/HelloWorld
